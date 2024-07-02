@@ -1,0 +1,2 @@
+
+    if snap_grid:
