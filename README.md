@@ -14,7 +14,7 @@ from Murtaza's Workshop
 * press 'd' to drag and drop mode
 * press 'c' to color picker mode (only color_pickey_key.py)
 
-_the grid mode only can use in drag and drop mode_**
+**_the grid mode only can use in drag and drop mode_**
 
 ## Requirement
 #### 1.opencv
