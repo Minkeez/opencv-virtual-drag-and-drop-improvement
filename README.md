@@ -2,11 +2,11 @@
 from Murtaza's Workshop
 
 ## New feature that contain this project
-1.Prevent rectangle from overlapping each other
-2.Grid
-3.Resize by draging from buttom right of rectangle
-4.color picker with thump finger tip (grid_color_picker.py)
-4.color picker with key 'c' (color_picker_key.py)
+1. Prevent rectangle from overlapping each other
+2. Grid
+3. Resize by draging from buttom right of rectangle
+4. color picker with thump finger tip (grid_color_picker.py)
+4. color picker with key 'c' (color_picker_key.py)
 
 ## manual switching mode
 * press 'g' to open grid feature
