@@ -31,8 +31,8 @@ pip install mediapipe
 ```
 
 ------------------
-best regards to Murtaza's Workshop
-please subscribe him
+best regards to Murtaza's Workshop.
+please subscribe him ->
 https://www.youtube.com/@murtazasworkshop
 
 ------------------
